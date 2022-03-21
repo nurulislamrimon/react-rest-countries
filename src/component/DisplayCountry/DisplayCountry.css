@@ -1,0 +1,10 @@
+div{
+    background-color: brown;
+    color: burlywood;
+    text-align: center;
+    height: 250px;
+    margin: 20px 0;
+}
+div img{
+   height: 100px;
+}
