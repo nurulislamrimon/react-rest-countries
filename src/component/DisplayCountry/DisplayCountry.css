@@ -1,9 +1,8 @@
-div{
-    background-color: brown;
-    color: burlywood;
+.country-container{
+    background-color: lightblue;
+    color: navy;
     text-align: center;
-    height: 250px;
-    margin: 20px 0;
+    padding: 20px;
 }
 div img{
    height: 100px;
